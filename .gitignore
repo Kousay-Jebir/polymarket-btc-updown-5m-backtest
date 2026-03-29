@@ -1,0 +1,5 @@
+*.zip
+node_modules/
+backtest-data
+*cleaned-data*
+data/

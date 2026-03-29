@@ -1,0 +1,5940 @@
+{
+  "balance": 2833.222222222222,
+  "quantityPerTrade": 1,
+  "accumulator": [
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.001",
+      "date": "2026-03-23T14:05:25.968Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-23T14:10:24.715Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-23T14:15:20.741Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-23T14:20:21.398Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-23T14:25:22.898Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-23T14:30:18.518Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-23T14:35:21.496Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-23T14:40:21.490Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-23T14:45:22.534Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-23T14:50:23.518Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-23T14:55:22.308Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-23T15:00:22.777Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-23T15:05:19.164Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-23T15:10:20.781Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-23T15:15:22.806Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-23T15:20:22.972Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-23T15:25:21.790Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-23T15:30:21.454Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-23T15:35:24.363Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-23T15:40:23.164Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-23T15:45:20.131Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-23T15:50:22.208Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-23T15:55:21.818Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.001",
+      "date": "2026-03-23T16:00:21.998Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-23T16:05:23.581Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.001",
+      "date": "2026-03-23T16:10:23.976Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.001",
+      "date": "2026-03-23T16:15:24.783Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.001",
+      "date": "2026-03-23T16:20:19.718Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-23T16:25:23.434Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-23T16:30:24.380Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-23T16:35:22.150Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-23T16:40:23.985Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-23T16:45:21.962Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.001",
+      "date": "2026-03-23T16:50:18.613Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-23T16:55:21.103Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-23T17:00:21.677Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-23T17:05:23.512Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-23T17:10:22.878Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-23T17:15:21.997Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-23T17:20:21.770Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-23T17:25:22.148Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-23T17:30:23.543Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-23T17:35:21.818Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-23T17:40:21.704Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-23T17:45:23.644Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-23T17:50:24.177Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-23T17:55:20.968Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-23T18:00:20.631Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-23T18:05:21.806Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-23T18:10:20.161Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-23T18:15:23.604Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-23T18:20:24.638Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-23T18:25:23.992Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-23T18:30:22.147Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.001",
+      "date": "2026-03-23T18:35:21.687Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-23T18:40:22.630Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-23T18:45:23.942Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-23T18:50:23.632Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-23T18:55:23.130Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-23T19:00:23.731Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-23T19:05:24.947Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-23T19:10:22.887Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-23T19:15:20.579Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-23T19:20:23.899Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-23T19:25:18.718Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-23T19:30:22.839Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-23T19:35:20.744Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-23T19:40:22.993Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-23T19:45:22.849Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-23T19:50:21.962Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-23T19:55:21.529Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.001",
+      "date": "2026-03-23T20:00:21.558Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-23T20:05:22.465Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-23T20:10:22.147Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.001",
+      "date": "2026-03-23T20:15:19.279Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-23T20:20:22.708Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-23T20:25:16.478Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-23T20:30:23.379Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-23T20:35:21.279Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-23T20:40:22.649Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-23T20:45:17.916Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-23T20:50:20.347Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-23T20:55:21.601Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-23T21:00:24.409Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-23T21:05:21.907Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-23T21:10:22.146Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-23T21:15:21.299Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-23T21:20:18.519Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.001",
+      "date": "2026-03-23T21:25:23.972Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-23T21:30:18.322Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-23T21:35:24.513Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-23T21:40:21.865Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-23T21:45:18.378Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-23T21:50:18.917Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-23T21:55:24.460Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-23T22:00:24.785Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-23T22:05:14.003Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.001",
+      "date": "2026-03-23T22:10:21.443Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-23T22:15:22.884Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-23T22:20:21.573Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.001",
+      "date": "2026-03-23T22:25:22.637Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-23T22:30:20.954Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-23T22:35:19.327Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.001",
+      "date": "2026-03-23T22:40:22.960Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-23T22:45:21.633Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-23T22:50:21.594Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-23T22:55:21.912Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-23T23:00:20.660Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-23T23:05:16.991Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.001",
+      "date": "2026-03-23T23:10:22.881Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-23T23:15:21.527Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-23T23:20:19.089Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.001",
+      "date": "2026-03-23T23:25:22.972Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-23T23:30:19.710Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-23T23:35:21.749Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-23T23:40:20.166Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-23T23:45:21.660Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-23T23:50:21.925Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-23T23:55:21.433Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-24T00:00:18.025Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-24T00:03:47.997Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-24T00:10:21.239Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-24T00:15:22.746Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.001",
+      "date": "2026-03-24T00:20:22.743Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-24T00:25:23.874Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-24T00:30:22.859Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-24T00:35:17.540Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-24T00:40:19.725Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-24T00:45:24.883Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.001",
+      "date": "2026-03-24T00:50:19.722Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-24T00:55:18.267Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.001",
+      "date": "2026-03-24T01:00:20.176Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.001",
+      "date": "2026-03-24T01:03:05.999Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-24T01:10:22.929Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-24T01:15:24.882Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-24T01:20:18.178Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-24T01:25:21.466Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.03",
+      "date": "2026-03-24T01:28:42.897Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-24T01:35:20.782Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-24T01:40:20.637Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-24T01:45:20.345Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-24T01:50:24.676Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-24T01:55:18.710Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-24T02:00:17.354Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-24T02:05:15.253Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.001",
+      "date": "2026-03-24T02:10:19.773Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-24T02:15:23.563Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-24T02:20:19.759Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.001",
+      "date": "2026-03-24T02:25:22.146Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-24T02:30:06.935Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-24T02:35:23.620Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-24T02:40:22.147Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-24T02:45:21.582Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-24T02:50:23.744Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-24T02:55:17.228Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-24T03:00:19.905Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-24T03:05:23.999Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-24T03:10:19.340Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-24T03:15:22.148Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-24T03:20:22.444Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-24T03:25:16.977Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-24T03:30:21.926Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-24T03:35:23.756Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-24T03:40:22.146Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-24T03:45:21.093Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-24T03:50:21.744Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-24T03:55:20.931Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-24T04:00:18.910Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-24T04:05:21.185Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.05",
+      "date": "2026-03-24T04:08:26.981Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-24T04:15:22.671Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-24T04:20:19.650Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-24T04:25:23.815Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-24T04:30:22.148Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.001",
+      "date": "2026-03-24T04:35:19.540Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-24T04:40:19.972Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-24T04:45:21.742Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-24T04:50:21.407Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-24T04:55:16.456Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-24T05:00:20.595Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-24T05:05:19.566Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-24T05:10:22.519Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-24T05:12:59.997Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.001",
+      "date": "2026-03-24T05:20:20.973Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-24T05:25:18.392Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-24T05:30:23.512Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-24T05:35:24.452Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.001",
+      "date": "2026-03-24T05:40:19.666Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-24T05:45:20.788Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-24T05:50:22.149Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-24T05:55:22.914Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-24T06:00:23.909Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-24T06:05:18.751Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-24T06:10:22.892Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-24T06:15:23.997Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-24T06:20:19.439Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-24T06:25:18.708Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-24T06:30:20.311Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.001",
+      "date": "2026-03-24T06:35:20.987Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-24T06:40:19.779Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-24T06:45:22.990Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-24T06:50:21.303Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-24T06:55:21.858Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-24T07:00:22.827Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-24T07:05:22.997Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-24T07:10:18.454Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-24T07:15:24.266Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-24T07:20:23.455Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-24T07:25:22.145Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-24T07:30:23.887Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-24T07:33:39.980Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.001",
+      "date": "2026-03-24T07:40:24.637Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-24T07:45:22.145Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-24T07:50:20.740Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-24T07:55:17.928Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.001",
+      "date": "2026-03-24T08:00:20.706Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "down",
+      "price": "0.001",
+      "date": "2026-03-24T08:03:20.992Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.001",
+      "date": "2026-03-24T08:10:23.000Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-24T08:15:22.489Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-24T08:20:16.961Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-24T08:25:22.146Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-24T08:30:20.389Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-24T08:35:23.000Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.001",
+      "date": "2026-03-24T08:40:21.928Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-24T08:45:22.385Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-24T08:50:21.618Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-24T08:55:22.881Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-24T09:00:24.823Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-24T09:05:20.674Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-24T09:10:18.578Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-24T09:15:24.510Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-24T09:20:20.626Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-24T09:25:15.827Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-24T09:30:20.467Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-24T09:35:24.391Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-24T09:40:20.949Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-24T09:45:19.086Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-24T09:50:22.698Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-24T09:55:22.149Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-24T10:00:22.200Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-24T10:05:19.661Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.001",
+      "date": "2026-03-24T10:10:23.830Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-24T10:15:22.342Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-24T10:20:19.465Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-24T10:25:19.586Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.001",
+      "date": "2026-03-24T10:30:22.145Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-24T10:35:22.144Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.001",
+      "date": "2026-03-24T10:40:23.654Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-24T10:45:24.822Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.001",
+      "date": "2026-03-24T10:50:17.173Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-24T10:55:22.730Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-24T11:00:17.618Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.001",
+      "date": "2026-03-24T11:05:19.853Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.001",
+      "date": "2026-03-24T11:10:20.003Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.001",
+      "date": "2026-03-24T11:15:22.438Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-24T11:20:20.556Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-24T11:25:21.285Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-24T11:30:22.773Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-24T11:35:22.872Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.001",
+      "date": "2026-03-24T11:40:24.936Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-24T11:45:22.991Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-24T11:50:21.047Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.001",
+      "date": "2026-03-24T11:55:20.206Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-24T12:00:11.996Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-24T12:10:21.290Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-24T12:15:23.867Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-24T12:20:20.489Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-24T12:25:21.653Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-24T12:30:24.272Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-24T12:35:23.160Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-24T12:40:23.908Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-24T12:45:20.212Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-24T12:50:22.063Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.001",
+      "date": "2026-03-24T12:55:21.816Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-24T13:00:22.816Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-24T13:05:19.778Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.001",
+      "date": "2026-03-24T13:10:21.039Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-24T13:15:22.744Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.001",
+      "date": "2026-03-24T13:20:21.565Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.001",
+      "date": "2026-03-24T13:25:21.717Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-24T13:30:23.725Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-24T13:35:23.853Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-24T13:40:24.974Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-24T13:45:24.890Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-24T13:50:24.322Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.001",
+      "date": "2026-03-24T13:55:24.861Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-24T14:00:23.749Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-24T14:05:23.962Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-24T14:10:24.262Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.001",
+      "date": "2026-03-24T14:15:18.445Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-24T14:20:24.892Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-24T14:25:22.919Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-24T14:30:23.393Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-24T14:35:18.456Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.001",
+      "date": "2026-03-24T14:40:14.628Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-24T14:45:18.996Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-24T14:50:24.759Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.02",
+      "date": "2026-03-24T14:52:51.973Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-24T15:00:24.976Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-24T15:05:19.809Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-24T15:10:23.001Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-24T15:15:23.775Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-24T15:20:21.237Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-24T15:25:20.084Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-24T15:30:23.850Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-24T15:35:17.952Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.001",
+      "date": "2026-03-24T15:40:22.849Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-24T15:45:22.346Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-24T15:50:22.887Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-24T15:55:22.352Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-24T16:00:20.764Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-24T16:05:24.237Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-24T16:10:23.881Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-24T16:15:24.423Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-24T16:20:23.894Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-24T16:25:24.862Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-24T16:30:22.479Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-24T16:35:21.258Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-24T16:40:21.933Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-24T16:45:23.540Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-24T16:50:20.508Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-24T16:55:24.534Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-24T17:00:24.892Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-24T17:05:22.546Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-24T17:10:23.497Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-24T17:15:24.998Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-24T17:20:24.230Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-24T17:23:00.993Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-24T17:28:03.973Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-24T17:35:21.681Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-24T17:40:21.760Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-24T17:45:22.260Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-24T17:50:23.225Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-24T17:55:24.230Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.1",
+      "date": "2026-03-24T17:57:57.958Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-24T18:05:20.733Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-24T18:08:02.976Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-24T18:15:24.646Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-24T18:20:24.791Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-24T18:25:24.906Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-24T18:30:21.545Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.001",
+      "date": "2026-03-24T18:35:21.224Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-24T18:40:22.591Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.001",
+      "date": "2026-03-24T18:45:00.999Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.001",
+      "date": "2026-03-24T18:50:22.354Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-24T18:55:23.895Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-24T19:00:22.302Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-24T19:03:23.983Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-24T19:10:23.677Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-24T19:15:24.231Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-24T19:20:20.735Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-24T19:25:20.957Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-24T19:30:24.527Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.001",
+      "date": "2026-03-24T19:35:23.634Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-24T19:40:21.719Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-24T19:45:20.945Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.05",
+      "date": "2026-03-24T19:47:41.980Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-24T19:55:21.780Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "up",
+      "price": "0.09",
+      "date": "2026-03-24T19:57:48.940Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-24T20:05:22.622Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-24T20:10:24.879Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-24T20:15:22.616Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-24T20:20:22.806Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.001",
+      "date": "2026-03-24T20:25:17.807Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-24T20:30:22.930Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "down",
+      "price": "0.09",
+      "date": "2026-03-24T20:32:54.975Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-24T20:40:24.483Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-24T20:45:21.295Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-24T20:50:22.533Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-24T20:54:44.981Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-24T21:00:23.522Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-24T21:05:19.232Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.001",
+      "date": "2026-03-24T21:10:24.545Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-24T21:15:20.789Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-24T21:20:22.762Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-24T21:25:22.659Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-24T21:29:43.942Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-24T21:35:21.707Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-24T21:40:10.404Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.05",
+      "date": "2026-03-24T21:44:57.605Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-24T21:50:18.326Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.001",
+      "date": "2026-03-24T21:55:24.682Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-24T22:00:23.448Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-24T22:05:23.365Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.001",
+      "date": "2026-03-24T22:10:21.806Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-24T22:15:20.833Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-24T22:20:20.982Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-24T22:25:22.311Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-24T22:30:21.370Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-24T22:35:20.393Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-24T22:40:19.273Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-24T22:45:21.750Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-24T22:50:20.261Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-24T22:55:18.806Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-24T23:00:22.644Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.08",
+      "date": "2026-03-24T23:04:28.998Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.001",
+      "date": "2026-03-24T23:10:23.404Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-24T23:15:22.793Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-24T23:20:20.083Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-24T23:25:19.946Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.001",
+      "date": "2026-03-24T23:30:20.796Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-24T23:35:22.349Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-24T23:40:22.257Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-24T23:45:20.630Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-24T23:50:21.368Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-24T23:52:58.954Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-25T00:00:20.540Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-25T00:05:19.077Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-25T00:10:20.500Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-25T00:15:20.073Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.001",
+      "date": "2026-03-25T00:20:20.509Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-25T00:25:21.367Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-25T00:30:21.387Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.001",
+      "date": "2026-03-25T00:35:23.870Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-25T00:40:18.864Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-25T00:45:23.332Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-25T00:50:21.584Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-25T00:55:23.836Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-25T01:00:21.663Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-25T01:05:21.369Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-25T01:10:22.959Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-25T01:15:23.000Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-25T01:20:24.718Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-25T01:25:20.724Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-25T01:30:21.485Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-25T01:32:50.973Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-25T01:40:20.919Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-25T01:45:22.308Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-25T01:50:22.921Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-25T01:55:18.022Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-25T02:00:23.490Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-25T02:05:22.093Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-25T02:10:21.370Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-25T02:15:24.550Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-25T02:20:19.617Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-25T02:25:19.390Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-25T02:30:22.821Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-25T02:35:24.237Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-25T02:40:21.372Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-25T02:45:23.771Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-25T02:50:24.859Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-25T02:55:20.077Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-25T03:00:21.930Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-25T03:05:22.394Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-25T03:10:23.290Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-25T03:15:22.980Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-25T03:20:24.977Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-25T03:25:19.639Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-25T03:30:20.757Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-25T03:35:17.927Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.001",
+      "date": "2026-03-25T03:40:22.509Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-25T03:45:20.553Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-25T03:50:21.860Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-25T03:55:23.970Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-25T04:00:21.475Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-25T04:05:23.287Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-25T04:10:21.674Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-25T04:15:21.384Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-25T04:20:23.984Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-25T04:25:22.897Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-25T04:30:23.494Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-25T04:35:23.885Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-25T04:40:23.781Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-25T04:45:24.509Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-25T04:50:19.937Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-25T04:55:23.749Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.001",
+      "date": "2026-03-25T05:00:24.224Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-25T05:05:24.869Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.001",
+      "date": "2026-03-25T05:10:16.392Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-25T05:15:24.940Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.001",
+      "date": "2026-03-25T05:20:22.678Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-25T05:25:22.546Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-25T05:30:21.370Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-25T05:35:20.136Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-25T05:40:21.612Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-25T05:45:22.488Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-25T05:50:22.000Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-25T05:55:21.751Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-25T06:00:24.544Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-25T06:05:20.183Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-25T06:10:18.589Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-25T06:15:24.468Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.001",
+      "date": "2026-03-25T06:20:21.369Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-25T06:25:20.188Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-25T06:30:23.957Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-25T06:35:21.917Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-25T06:40:21.366Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-25T06:45:24.512Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-25T06:50:19.975Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-25T06:55:22.561Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-25T07:00:24.919Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-25T07:05:23.591Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-25T07:10:22.368Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-25T07:15:21.542Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-25T07:20:18.998Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-25T07:25:22.984Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-25T07:30:18.953Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-25T07:35:21.369Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-25T07:40:18.280Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-25T07:45:22.741Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.001",
+      "date": "2026-03-25T07:50:23.515Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.001",
+      "date": "2026-03-25T07:52:50.999Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-25T08:00:23.952Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.001",
+      "date": "2026-03-25T08:05:23.530Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.001",
+      "date": "2026-03-25T08:10:23.881Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-25T08:15:24.773Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.001",
+      "date": "2026-03-25T08:20:19.329Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-25T08:25:23.937Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-25T08:28:08.952Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.001",
+      "date": "2026-03-25T08:35:21.665Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.001",
+      "date": "2026-03-25T08:40:22.540Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-25T08:45:19.876Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-25T08:50:24.552Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-25T08:55:23.896Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-25T09:00:23.216Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-25T09:05:22.066Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-25T09:10:19.543Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-25T09:15:19.999Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-25T09:20:19.366Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-25T09:25:22.820Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.001",
+      "date": "2026-03-25T09:30:23.758Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "down",
+      "price": "0.001",
+      "date": "2026-03-25T09:32:50.999Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.001",
+      "date": "2026-03-25T09:37:55.999Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-25T09:45:19.504Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-25T09:50:21.716Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-25T09:55:23.424Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-25T10:00:23.736Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-25T10:05:21.420Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-25T10:10:22.451Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-25T10:15:22.479Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-25T10:20:21.555Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-25T10:23:20.971Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-25T10:30:22.838Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-25T10:35:22.632Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-25T10:40:23.499Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-25T10:45:23.038Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.001",
+      "date": "2026-03-25T10:50:23.124Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-25T10:55:21.811Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-25T11:00:22.959Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-25T11:05:23.061Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-25T11:10:24.364Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-25T11:15:21.422Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.001",
+      "date": "2026-03-25T11:20:24.994Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-25T11:25:23.541Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-25T11:30:22.821Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-25T11:35:21.602Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-25T11:40:24.528Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-25T11:45:20.763Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.001",
+      "date": "2026-03-25T11:50:24.373Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-25T11:55:21.367Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-25T12:00:22.005Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-25T12:05:23.818Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-25T12:07:50.981Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.001",
+      "date": "2026-03-25T12:15:21.789Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.001",
+      "date": "2026-03-25T12:20:22.962Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-25T12:25:21.370Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-25T12:30:22.794Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.001",
+      "date": "2026-03-25T12:35:23.000Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-25T12:40:23.633Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-25T12:45:22.491Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-25T12:50:24.607Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-25T12:55:23.852Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.001",
+      "date": "2026-03-25T13:00:24.257Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-25T13:05:23.709Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-25T13:10:23.941Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-25T13:15:21.855Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-25T13:20:21.368Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-25T13:25:23.904Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-25T13:30:24.837Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.001",
+      "date": "2026-03-25T13:35:24.627Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.001",
+      "date": "2026-03-25T13:40:22.939Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-25T13:45:22.734Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-25T13:50:22.922Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-25T13:55:23.698Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-25T14:00:22.964Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-25T14:05:24.774Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-25T14:10:24.001Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-25T14:15:22.866Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-25T14:17:52.992Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-25T14:25:21.369Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-25T14:30:20.890Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.001",
+      "date": "2026-03-25T14:40:24.954Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-25T14:45:24.688Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-25T14:50:23.720Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-25T14:55:22.952Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-25T15:00:24.902Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-25T15:05:22.955Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.001",
+      "date": "2026-03-25T15:10:24.836Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-25T15:15:22.363Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.001",
+      "date": "2026-03-25T15:20:20.725Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.001",
+      "date": "2026-03-25T15:25:23.965Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-25T15:30:22.986Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-25T15:35:23.037Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.001",
+      "date": "2026-03-25T15:40:23.591Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-25T15:45:24.690Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-25T15:50:24.683Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-25T15:55:24.890Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-25T16:00:24.432Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-25T16:05:23.961Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-25T16:10:23.490Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-25T16:15:23.797Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-25T16:20:23.167Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.001",
+      "date": "2026-03-25T16:30:24.850Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-25T16:35:23.843Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-25T16:40:21.757Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-25T16:42:33.999Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.001",
+      "date": "2026-03-25T16:50:24.441Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-25T16:55:24.941Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.001",
+      "date": "2026-03-25T17:00:24.800Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-25T17:05:24.652Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.001",
+      "date": "2026-03-25T17:10:23.971Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-25T17:15:24.704Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.001",
+      "date": "2026-03-25T17:20:23.763Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-25T17:25:22.643Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-25T17:30:22.232Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-25T17:35:23.520Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-25T17:40:24.751Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-25T17:45:22.845Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-25T17:50:21.769Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-25T17:55:23.041Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-25T18:00:23.759Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-25T18:05:24.820Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-25T18:10:23.598Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-25T18:15:24.876Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.001",
+      "date": "2026-03-25T18:20:24.056Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.001",
+      "date": "2026-03-25T18:25:24.559Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.001",
+      "date": "2026-03-25T18:30:24.453Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.001",
+      "date": "2026-03-25T18:35:23.539Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-25T18:40:24.063Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-25T18:45:22.893Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-25T18:50:20.725Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-25T18:55:24.865Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.001",
+      "date": "2026-03-25T19:00:21.590Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-25T19:05:23.684Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.001",
+      "date": "2026-03-25T19:10:22.672Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-25T19:15:23.098Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-25T19:20:21.219Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-25T19:25:20.725Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-25T19:30:23.492Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-25T19:35:24.928Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-25T19:40:20.726Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-25T19:45:20.724Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-25T19:55:23.390Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.001",
+      "date": "2026-03-25T20:00:24.940Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-25T20:05:23.797Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-25T20:07:35.983Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-25T20:15:21.921Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-25T20:20:23.054Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-25T20:22:44.999Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-25T20:30:22.718Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-25T20:35:24.797Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.001",
+      "date": "2026-03-25T20:40:22.456Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-25T20:44:35.973Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-25T20:50:19.868Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.001",
+      "date": "2026-03-25T20:55:22.821Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-25T21:00:23.031Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-25T21:05:24.891Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-25T21:10:20.901Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-25T21:15:22.509Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.001",
+      "date": "2026-03-25T21:20:22.210Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-25T21:30:20.921Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-25T21:35:20.725Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-25T21:40:21.751Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-25T21:45:22.553Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-25T21:50:24.393Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-25T21:55:19.927Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-25T22:00:22.848Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-25T22:05:21.739Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-25T22:10:22.859Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-25T22:15:23.812Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-25T22:20:24.022Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-25T22:25:20.941Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-25T22:30:21.637Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-25T22:35:22.601Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-25T22:40:23.534Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.001",
+      "date": "2026-03-25T22:45:23.825Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.001",
+      "date": "2026-03-25T22:50:21.828Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-25T22:55:19.985Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-25T23:00:23.544Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-25T23:02:39.366Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-25T23:10:22.462Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-25T23:15:23.610Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-25T23:19:50.999Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-25T23:25:19.935Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-25T23:30:22.851Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-25T23:35:22.889Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-25T23:40:19.952Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.001",
+      "date": "2026-03-25T23:45:22.278Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-25T23:50:21.129Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-25T23:55:21.366Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-26T00:00:23.517Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-26T00:08:09.927Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-26T00:15:24.560Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.001",
+      "date": "2026-03-26T00:20:24.001Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-26T00:25:18.472Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-26T00:30:22.779Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-26T00:32:50.999Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-26T00:40:15.284Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-26T00:45:21.905Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.001",
+      "date": "2026-03-26T00:55:21.853Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-26T01:00:23.521Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-26T01:03:02.998Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-26T01:10:23.800Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-26T01:15:21.744Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-26T01:20:24.646Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-26T01:25:21.921Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-26T01:29:22.978Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-26T01:35:20.827Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-26T01:40:22.498Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-26T01:45:21.167Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-26T01:48:11.999Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-26T01:55:21.397Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-26T02:00:21.926Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-26T02:05:24.587Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.001",
+      "date": "2026-03-26T02:10:21.896Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.001",
+      "date": "2026-03-26T02:15:22.587Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.001",
+      "date": "2026-03-26T02:20:20.485Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-26T02:25:18.646Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-26T02:30:23.378Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-26T02:35:24.150Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-26T02:40:23.868Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-26T02:45:22.749Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-26T02:50:24.722Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-26T02:55:20.725Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-26T03:00:23.853Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-26T03:10:22.751Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-26T03:15:24.375Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-26T03:20:22.515Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-26T03:25:22.719Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-26T03:30:23.147Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-26T03:35:19.832Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.001",
+      "date": "2026-03-26T03:40:20.721Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-26T03:45:24.812Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-26T03:50:22.704Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.001",
+      "date": "2026-03-26T03:55:20.166Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-26T04:00:19.978Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.001",
+      "date": "2026-03-26T04:05:23.967Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-26T04:10:22.597Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-26T04:15:22.896Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-26T04:20:24.788Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-26T04:25:19.854Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-26T04:30:21.944Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-26T04:35:15.760Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-26T04:40:22.142Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-26T04:45:20.926Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-26T04:50:19.991Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-26T04:55:21.929Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-26T05:00:20.727Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-26T05:05:23.538Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.001",
+      "date": "2026-03-26T05:10:19.925Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-26T05:15:23.967Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-26T05:20:24.959Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.001",
+      "date": "2026-03-26T05:25:19.996Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-26T05:30:23.955Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-26T05:35:24.986Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-26T05:40:20.723Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-26T05:45:17.579Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-26T05:50:21.886Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.001",
+      "date": "2026-03-26T05:55:18.718Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-26T06:00:16.836Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-26T06:05:17.145Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.08",
+      "date": "2026-03-26T06:08:48.990Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-26T06:15:23.870Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-26T06:20:24.855Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-26T06:25:19.832Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-26T06:30:22.914Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-26T06:35:17.868Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-26T06:45:20.995Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-26T06:50:21.514Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-26T06:55:21.821Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-26T07:00:23.669Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-26T07:05:23.935Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.001",
+      "date": "2026-03-26T07:10:20.720Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-26T07:15:20.720Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-26T07:20:23.636Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-26T07:25:20.870Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.001",
+      "date": "2026-03-26T07:30:21.444Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-26T07:35:21.678Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-26T07:40:22.402Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-26T07:45:23.879Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-26T07:50:22.624Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-26T07:55:18.666Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.001",
+      "date": "2026-03-26T08:00:21.787Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-26T08:05:21.922Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-26T08:10:21.323Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.001",
+      "date": "2026-03-26T08:15:24.000Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-26T08:20:19.917Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.001",
+      "date": "2026-03-26T08:25:23.902Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-26T08:30:19.985Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-26T08:35:16.339Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-26T08:40:22.389Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-26T08:45:19.946Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-26T08:50:23.366Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-26T08:55:23.646Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-26T09:00:21.098Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-26T09:05:23.776Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.001",
+      "date": "2026-03-26T09:10:21.719Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-26T09:15:20.841Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.001",
+      "date": "2026-03-26T09:20:19.976Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-26T09:25:21.440Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.001",
+      "date": "2026-03-26T09:30:24.547Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.001",
+      "date": "2026-03-26T09:35:19.859Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-26T09:40:22.967Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-26T09:50:21.940Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.001",
+      "date": "2026-03-26T09:55:22.352Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-26T10:00:19.466Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-26T10:05:23.615Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-26T10:10:24.967Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-26T10:15:21.846Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-26T10:20:24.925Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-26T10:25:22.222Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-26T10:30:22.412Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-26T10:35:22.864Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-26T10:40:21.990Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-26T10:45:20.720Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-26T10:50:19.841Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-26T10:55:23.414Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-26T11:00:22.916Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.001",
+      "date": "2026-03-26T11:05:21.225Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-26T11:10:23.973Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-26T11:15:16.647Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-26T11:20:20.721Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-26T11:25:20.884Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-26T11:30:22.939Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.001",
+      "date": "2026-03-26T11:35:23.499Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-26T11:40:23.412Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-26T11:50:22.790Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-26T11:55:20.849Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.001",
+      "date": "2026-03-26T12:00:24.236Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-26T12:05:20.731Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-26T12:10:22.324Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-26T12:15:22.686Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-26T12:20:23.794Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-26T12:25:23.275Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-26T12:30:23.518Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-26T12:35:23.787Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-26T12:40:22.539Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-26T12:45:22.624Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-26T12:50:21.607Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-26T12:55:22.872Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.001",
+      "date": "2026-03-26T13:00:23.646Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-26T13:05:24.983Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-26T13:10:21.586Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-26T13:15:23.894Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-26T13:20:24.568Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-26T13:25:22.704Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-26T13:30:22.692Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-26T13:35:24.918Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.05",
+      "date": "2026-03-26T13:37:40.999Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-26T13:45:20.974Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.001",
+      "date": "2026-03-26T13:50:23.834Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-26T13:55:21.719Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.001",
+      "date": "2026-03-26T14:00:24.357Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-26T14:05:22.779Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-26T14:10:22.902Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-26T14:15:21.978Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-26T14:20:24.557Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.001",
+      "date": "2026-03-26T14:25:24.221Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.06",
+      "date": "2026-03-26T14:27:36.992Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-26T14:35:24.548Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.001",
+      "date": "2026-03-26T14:40:21.897Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-26T14:45:23.981Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-26T14:50:22.579Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-26T14:55:20.764Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.001",
+      "date": "2026-03-26T15:00:20.980Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-26T15:05:24.216Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-26T15:10:22.222Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-26T15:15:23.496Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-26T15:20:22.918Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-26T15:25:21.114Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-26T15:30:24.806Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.001",
+      "date": "2026-03-26T15:35:20.720Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-26T15:40:21.944Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-26T15:45:23.932Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.001",
+      "date": "2026-03-26T15:50:22.464Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-26T15:55:24.019Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.001",
+      "date": "2026-03-26T16:00:23.808Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-26T16:05:23.032Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-26T16:10:22.900Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-26T16:15:21.616Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-26T16:19:13.976Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-26T16:25:20.931Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.001",
+      "date": "2026-03-26T16:30:24.851Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-26T16:35:22.668Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-26T16:40:23.971Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-26T16:45:19.982Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-26T16:50:22.436Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-26T16:55:22.518Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-26T17:00:20.950Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-26T17:05:21.538Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-26T17:10:22.982Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-26T17:15:23.121Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-26T17:20:21.463Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-26T17:25:23.987Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-26T17:30:23.019Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-26T17:35:24.878Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-26T17:40:16.883Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-26T17:45:18.738Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.001",
+      "date": "2026-03-26T17:50:18.447Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-26T17:55:19.552Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.001",
+      "date": "2026-03-26T18:00:20.720Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-26T18:05:20.720Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-26T18:10:22.903Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-26T18:15:20.970Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-26T18:19:46.994Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-26T18:25:22.703Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-26T18:30:20.748Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-26T18:35:23.434Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-26T18:40:23.973Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-26T18:45:20.648Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.001",
+      "date": "2026-03-26T18:50:24.164Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.001",
+      "date": "2026-03-26T18:55:21.890Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-26T19:00:23.536Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-26T19:05:24.446Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-26T19:10:23.719Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-26T19:15:18.432Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-26T19:20:23.889Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-26T19:25:22.988Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.001",
+      "date": "2026-03-26T19:30:20.974Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-26T19:35:20.517Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-26T19:40:21.813Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-26T19:45:22.375Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-26T19:50:22.046Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-26T19:55:20.247Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-26T19:59:19.978Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-26T20:05:21.379Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-26T20:10:22.760Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.001",
+      "date": "2026-03-26T20:15:20.359Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-26T20:20:20.841Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.001",
+      "date": "2026-03-26T20:25:20.390Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.001",
+      "date": "2026-03-26T20:30:20.773Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-26T20:35:18.793Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-26T20:40:18.897Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-26T20:45:20.131Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-26T20:50:23.436Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-26T20:55:24.499Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-26T21:00:23.559Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-26T21:05:19.942Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-26T21:10:22.839Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-26T21:15:22.243Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-26T21:20:21.099Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-26T21:25:18.447Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-26T21:30:22.910Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-26T21:35:19.905Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-26T21:40:18.630Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-26T21:45:24.948Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-26T21:50:23.851Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.001",
+      "date": "2026-03-26T21:55:21.004Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-26T22:00:19.800Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.001",
+      "date": "2026-03-26T22:05:24.844Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-26T22:10:19.796Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-26T22:15:20.277Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-26T22:20:21.908Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-26T22:25:21.817Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-26T22:30:24.693Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-26T22:35:19.645Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-26T22:40:22.940Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-26T22:45:23.436Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-26T22:50:18.738Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-26T22:55:24.814Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-26T23:00:23.438Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-26T23:05:23.440Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-26T23:10:20.586Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-26T23:15:22.425Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-26T23:20:19.926Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.001",
+      "date": "2026-03-26T23:25:22.819Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-26T23:30:19.356Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.001",
+      "date": "2026-03-26T23:35:23.876Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.001",
+      "date": "2026-03-26T23:40:22.265Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-26T23:45:20.116Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-26T23:50:23.437Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-26T23:55:22.941Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-27T00:00:23.719Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-27T00:05:19.642Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-27T00:10:20.257Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-27T00:15:23.995Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-27T00:20:22.186Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-27T00:25:21.703Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-27T00:29:56.990Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-27T00:35:19.298Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.001",
+      "date": "2026-03-27T00:40:21.978Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.001",
+      "date": "2026-03-27T00:45:23.441Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-27T00:50:24.999Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.04",
+      "date": "2026-03-27T00:53:56.999Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-27T01:00:24.966Z"
+    },
+    {
+      "trade": "up",
+      "outcome": "down",
+      "price": "0.01",
+      "date": "2026-03-27T01:05:19.169Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-27T01:10:23.437Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-27T01:15:20.761Z"
+    },
+    {
+      "trade": "down",
+      "outcome": "up",
+      "price": "0.01",
+      "date": "2026-03-27T01:20:20.935Z"
+    }
+  ]
+}
