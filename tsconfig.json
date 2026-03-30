@@ -1,11 +1,14 @@
 {
     "compilerOptions": {
-        "module": "node18",
+        "module": "NodeNext",
+        "moduleResolution": "nodenext",
         "target": "es2020",
         "strict": true,
-        "verbatimModuleSyntax": true,
         "declaration": true,
         "sourceMap": true,
+        "types": [
+            "node"
+        ],
         "declarationMap": true,
         "rootDir": "src",
         "outDir": "dist"

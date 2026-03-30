@@ -15,13 +15,14 @@ async function cleanData() {
                 .find(f => f.startsWith(`${slug}${marketId}`));
             const response = await fetch(`https://gamma-api.polymarket.com/markets/slug/${slug}${marketId}`);
             const upTokenId = JSON.parse((await response.json()).clobTokenIds)[0]
+            const downTokenId = JSON.parse((await response.json()).clobTokenIds)[1]
             if (!fileName) break;
 
             const data = await readBase64GzipFile(`./cleaned-data/${fileName}`);
             const data$ = prune(data, 1000);
             const finalData = await lastValueFrom(data$.pipe(toArray()));
             fs.writeFileSync(
-                `./final-cleaned-data3/${fileName}-${upTokenId}.json`,
+                `./final-cleaned-data3/${fileName}-${upTokenId}-${downTokenId}.json`,
                 JSON.stringify(finalData, null, 2),
                 'utf-8'
             );

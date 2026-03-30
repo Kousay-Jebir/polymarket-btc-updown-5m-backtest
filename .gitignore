@@ -3,3 +3,5 @@ node_modules/
 backtest-data
 *cleaned-data*
 data/
+backtest.json
+balance.png
