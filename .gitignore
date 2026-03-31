@@ -5,3 +5,7 @@ backtest-data
 data/
 backtest.json
 balance.png
+dist/
+src/lib.ts
+backtest-summary.txt
+backtest.json

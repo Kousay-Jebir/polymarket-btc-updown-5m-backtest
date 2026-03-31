@@ -1,11 +1,27 @@
 {
-  "type": "commonjs",
-  "devDependencies": {
-    "@types/node": "^25.5.0"
+  "name": "polymarket-btc-updown-5m-backtest",
+  "version": "1.0.0",
+  "description": "Mini backtesting library for bitcoin up/down 5 minute markets on Polymarket",
+  "type": "module",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "exports": {
+    ".": "./dist/index.js"
+  },
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "prepublishOnly": "npm run build"
   },
   "dependencies": {
     "chart.js": "^4.5.1",
     "chartjs-node-canvas": "^5.0.0",
     "rxjs": "^7.8.2"
+  },
+  "devDependencies": {
+    "typescript": "^6.0.2",
+    "@types/node": "^25.5.0"
   }
 }

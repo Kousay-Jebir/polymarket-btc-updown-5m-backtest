@@ -11,7 +11,9 @@
         ],
         "declarationMap": true,
         "rootDir": "src",
-        "outDir": "dist"
+        "outDir": "dist",
+        "esModuleInterop": true,
+        "skipLibCheck": true
     },
     "include": [
         "src/**/*"
