@@ -1,3 +1,4 @@
+import { StrategyAction } from '../models/actions.js';
 import { BacktestResult, BacktestStatisticsResult, TradeFilterCriteria, InitialState } from '../models/results.js';
 
 export function collectMetrics(
@@ -53,7 +54,7 @@ export function collectMetrics(
     };
 }
 
-export function filterTrades(actions: any[], criteria: TradeFilterCriteria) {
+export function filterTrades(actions: (StrategyAction & { outcome: string; slug: string })[], criteria: TradeFilterCriteria) {
     return actions.filter(a => {
         if (a.type !== 'trade') return false;
 

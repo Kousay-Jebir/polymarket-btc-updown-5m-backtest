@@ -1,3 +1,5 @@
+import { CleanPriceChange, MarketEntry } from "./market.js";
+
 export interface TradeStrategyAction {
     type: 'trade';
     token: 'up' | 'down';
@@ -16,9 +18,9 @@ export type StrategyAction = TradeStrategyAction | IdleStrategyAction;
 
 export interface StrategyHelpers {
     buy: (token: 'up' | 'down', stake: number) => void;
-    up: any;
-    down: any;
+    up: CleanPriceChange;
+    down: CleanPriceChange;
     end: () => void;
 }
 
-export type Strategy = (marketEntry: any, helpers: StrategyHelpers) => void;
+export type Strategy = (marketEntry: MarketEntry, helpers: StrategyHelpers) => void;

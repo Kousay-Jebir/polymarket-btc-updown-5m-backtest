@@ -1,6 +1,6 @@
 import { loadMarkets } from '../utils/loader.js';
 import { strategyRunner } from './strategy-runner.js';
-import { Strategy } from '../models/actions.js';
+import { Strategy, StrategyAction } from '../models/actions.js';
 import { BacktestResult, InitialState, FinalState } from '../models/results.js';
 
 export async function backTest(
@@ -9,7 +9,7 @@ export async function backTest(
     initialState: InitialState
 ): Promise<BacktestResult> {
 
-    const actions: any[] = [];
+    const actions: (StrategyAction & { outcome: string, slug: string })[] = [];
     const markets = await loadMarkets(dataPath);
 
     markets.forEach((market) => {
