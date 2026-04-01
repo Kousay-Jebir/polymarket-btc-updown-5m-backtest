@@ -21,6 +21,10 @@ export interface StrategyHelpers {
     up: CleanPriceChange;
     down: CleanPriceChange;
     end: () => void;
+    differenceInSeconds: (timestamp1: string, timestamp2: string) => number;
+    firstMarketEntry: MarketEntry,
+    lastMarketEntry: MarketEntry
+
 }
 
-export type Strategy = (marketEntry: MarketEntry, helpers: StrategyHelpers) => void;
+export type Strategy = () => (marketEntry: MarketEntry, helpers: StrategyHelpers) => void;

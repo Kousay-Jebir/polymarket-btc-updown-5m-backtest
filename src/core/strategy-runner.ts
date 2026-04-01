@@ -1,4 +1,4 @@
-import { LoadedMarket, PriceChange } from '../models/market.js';
+import { CleanPriceChange, LoadedMarket, PriceChange } from '../models/market.js';
 import { Strategy, StrategyAction } from '../models/actions.js';
 
 function cleanAsset(asset: PriceChange) {
@@ -10,11 +10,12 @@ function cleanAsset(asset: PriceChange) {
     };
 }
 
-export function strategyRunner(loadedMarket: LoadedMarket, strategy: Strategy) {
+export function strategyRunner(loadedMarket: LoadedMarket, strategyFactory: Strategy) {
     const { data, upTokenId } = loadedMarket;
     const actions: StrategyAction[] = [];
+    const strategy = strategyFactory();
 
-    function buy(token: 'up' | 'down', stake: number, asset: any, timestamp: string) {
+    function buy(token: 'up' | 'down', stake: number, asset: CleanPriceChange, timestamp: string) {
         actions.push({
             type: 'trade',
             token,
@@ -43,6 +44,12 @@ export function strategyRunner(loadedMarket: LoadedMarket, strategy: Strategy) {
             up,
             down,
             end: () => (exitSignal = true),
+            differenceInSeconds: (timestamp1, timestamp2) => {
+                return Math.abs(Number(timestamp1) - Number(timestamp2)) / 1000;
+            },
+            lastMarketEntry: data[data.length - 1],
+            firstMarketEntry: data[0]
+
         });
 
         if (exitSignal) break;

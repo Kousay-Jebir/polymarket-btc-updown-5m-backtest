@@ -9,3 +9,4 @@ dist/
 src/lib.ts
 backtest-summary.txt
 backtest.json
+polymarket-btc-updown-5m-backtest-1.0.0.tgz
